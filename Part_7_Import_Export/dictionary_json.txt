@@ -1,0 +1,1 @@
+{"car": "Auto\n", "bicycle": "Fahrrad\n", "bottle": "Flasche\n", "fan": "Ventilator\n", "jacket": "Jacke"}

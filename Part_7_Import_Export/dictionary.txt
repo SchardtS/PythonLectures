@@ -1,0 +1,5 @@
+car Auto
+bicycle Fahrrad
+bottle Flasche
+fan Ventilator
+jacket Jacke

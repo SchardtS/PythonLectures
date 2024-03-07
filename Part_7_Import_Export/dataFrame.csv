@@ -1,0 +1,5 @@
+,DataSet,Date,Area,Category,Validity
+0,1.0,2013-01-02,15,test,valid
+1,1.0,2013-01-02,12,train,valid
+2,1.0,2013-01-02,13,test,valid
+3,1.0,2013-01-02,27,train,valid
