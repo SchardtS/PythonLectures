@@ -1,3 +1,0 @@
-centroid [110, 112, 240]
-volume 250
-cellType stem_cell
